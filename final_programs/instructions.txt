@@ -1,0 +1,7 @@
+falling_sky:
+a key moves knuckles to the left
+d key moves knucles to the right
+
+
+snowy_day:
+space key changes to daytime
